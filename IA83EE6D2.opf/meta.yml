@@ -1,526 +1,639 @@
-id: P001788
+id: IA83EE6D2
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 27/03/2020
-last_modified_at: 2021-12-17 10:21:40.078010
+imported: '2020-03-27T20:36:57+00:00'
+last_modified: '2022-06-07T15:09:47.515506+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W30532
   title: བཀའ་འགྱུར། ༼སྡེ་དགེ།༽
   author: ''
-  volumes:
-    afd57d27d297497dbb11226de6883aed:
-      image_group_id: I6348
-      title: ''
-      volume_number: 1
-      total_pages: 624
-    326375d7595e44e5a8246aa3006acc61:
-      image_group_id: I6349
-      title: ''
-      volume_number: 2
-      total_pages: 636
-    60d4046b7aab456db536d40186ded83f:
-      image_group_id: I6350
-      title: ''
-      volume_number: 3
-      total_pages: 588
-    c25051fec4834d8f86b6fd0ce7155569:
-      image_group_id: I6351
-      title: ''
-      volume_number: 4
-      total_pages: 606
-    c4329a83a0664262ab4b585587e9192c:
-      image_group_id: I6352
-      title: ''
-      volume_number: 5
-      total_pages: 590
-    4d538f733e474af988bd54f73dc9ad73:
-      image_group_id: I6353
-      title: ''
-      volume_number: 6
-      total_pages: 576
-    4fef9850970841d987132591996ed5d7:
-      image_group_id: I6354
-      title: ''
-      volume_number: 7
-      total_pages: 576
-    cd40d9b89f7e4ba58780ea620d4448db:
-      image_group_id: I6355
-      title: ''
-      volume_number: 8
-      total_pages: 540
-    5d8c355a6421458283606cc8dbd0baac:
-      image_group_id: I6356
-      title: ''
-      volume_number: 9
-      total_pages: 658
-    ec6c7d9d682a40758843986690ac2185:
-      image_group_id: I6357
-      title: ''
-      volume_number: 10
-      total_pages: 622
-    72f4b1224494464980d678ace2d0f928:
-      image_group_id: I6358
-      title: ''
-      volume_number: 11
-      total_pages: 668
-    f4950c83048940b6bf8f3d5d6cf76f28:
-      image_group_id: I6359
-      title: ''
-      volume_number: 12
-      total_pages: 606
-    e8c4fbf7606648c0afed2f63994ca40e:
-      image_group_id: I6360
-      title: ''
-      volume_number: 13
-      total_pages: 628
-    fbf42302ff9f49d8907cdd1078171833:
-      image_group_id: I6361
-      title: ''
-      volume_number: 14
-      total_pages: 790
-    20f15a3eec144068a58d96f365ee5a74:
-      image_group_id: I6362
-      title: ''
-      volume_number: 15
-      total_pages: 806
-    475bbb43862046c1833918017528bd5b:
-      image_group_id: I6363
-      title: ''
-      volume_number: 16
-      total_pages: 790
-    7585ad0e801448ef889490a46cdb5391:
-      image_group_id: I6364
-      title: ''
-      volume_number: 17
-      total_pages: 764
-    cc65467b3f2c484883f099dbeb993fde:
-      image_group_id: I6365
-      title: ''
-      volume_number: 18
-      total_pages: 790
-    08592a3279c24e62babd490a7cf8ef4b:
-      image_group_id: I6366
-      title: ''
-      volume_number: 19
-      total_pages: 764
-    b83b68dc352a4a21bbd01d3489b3a6e2:
-      image_group_id: I6367
-      title: ''
-      volume_number: 20
-      total_pages: 798
-    9f50bc7ba9c445f889cccda0cdf090f8:
-      image_group_id: I6368
-      title: ''
-      volume_number: 21
-      total_pages: 800
-    eaedd9c6205e4a97b4826089dd944d12:
-      image_group_id: I6369
-      title: ''
-      volume_number: 22
-      total_pages: 770
-    a644448812a943d18cefc88be9c45933:
-      image_group_id: I6370
-      title: ''
-      volume_number: 23
-      total_pages: 776
-    387585ce73c949e5ba3e792b8b9cac72:
-      image_group_id: I6371
-      title: ''
-      volume_number: 24
-      total_pages: 824
-    24713ce200d64659896354a5a6f368e2:
-      image_group_id: I6372
-      title: ''
-      volume_number: 25
-      total_pages: 792
-    f0658313f1a64d668756375eb02355d7:
-      image_group_id: I6373
-      title: ''
-      volume_number: 26
-      total_pages: 766
-    5d6978593b4d474085bc2bbdc32cdaf9:
-      image_group_id: I6374
-      title: ''
-      volume_number: 27
-      total_pages: 788
-    e7a388e9ae274ee19efe523aa5739086:
-      image_group_id: I6375
-      title: ''
-      volume_number: 28
-      total_pages: 764
-    d7452ccff5be49e2a5a0bb0849704a65:
-      image_group_id: I6376
-      title: ''
-      volume_number: 29
-      total_pages: 602
-    2fc074ff9de847c4bd70c36c3f3ea5eb:
-      image_group_id: I6377
-      title: ''
-      volume_number: 30
-      total_pages: 610
-    0a8adf24d9ae496a9771d7df8f63c608:
-      image_group_id: I6378
-      title: ''
-      volume_number: 31
-      total_pages: 596
-    5f98b56cc0a94cd39e762e8b8a4ba247:
-      image_group_id: I6379
-      title: ''
-      volume_number: 32
-      total_pages: 614
-    bbca9aa23d2e4299b45d6e3248c9fa42:
-      image_group_id: I6380
-      title: ''
-      volume_number: 33
-      total_pages: 572
-    83a29bb9d2c14eb5a851d71518b9e06f:
-      image_group_id: I6381
-      title: ''
-      volume_number: 34
-      total_pages: 570
-    6e9a9b1c9f094314a481faa23987b412:
-      image_group_id: I6382
-      title: ''
-      volume_number: 35
-      total_pages: 788
-    dfc90b653d2349519d6106bcce2ca52d:
-      image_group_id: I6383
-      title: ''
-      volume_number: 36
-      total_pages: 796
-    2e0aadb67bf7476a9e0264ff22490bf6:
-      image_group_id: I6384
-      title: ''
-      volume_number: 37
-      total_pages: 792
-    fbadffdcd52d4d00a42ed98547848358:
-      image_group_id: I6385
-      title: ''
-      volume_number: 38
-      total_pages: 726
-    19631713fecb4f9ab6c535d272359099:
-      image_group_id: I6386
-      title: ''
-      volume_number: 39
-      total_pages: 542
-    cc4fbbd19ace4028b6c25f2ac83f806c:
-      image_group_id: I6387
-      title: ''
-      volume_number: 40
-      total_pages: 590
-    67d6c7af977e45d8bac0115664e82a5f:
-      image_group_id: I6388
-      title: ''
-      volume_number: 41
-      total_pages: 598
-    8803cbe75ceb409190f665492986e33b:
-      image_group_id: I6389
-      title: ''
-      volume_number: 42
-      total_pages: 576
-    147ecea0719f48e7b3ad20babdc5dae5:
-      image_group_id: I6390
-      title: ''
-      volume_number: 43
-      total_pages: 618
-    4636ad6ffe9648a0a3358d39253197bd:
-      image_group_id: I6391
-      title: ''
-      volume_number: 44
-      total_pages: 600
-    2d12e3a292e84bb58c7362ae5ec901a9:
-      image_group_id: I6392
-      title: ''
-      volume_number: 45
-      total_pages: 682
-    6776f522dd8c4a3f90230108da18b79b:
-      image_group_id: I6393
-      title: ''
-      volume_number: 46
-      total_pages: 558
-    d2fe1c23c3964f4a9b8a626348dd24fd:
-      image_group_id: I6394
-      title: ''
-      volume_number: 47
-      total_pages: 612
-    64529798e1f64c8ba0acd28a067b139e:
-      image_group_id: I6395
-      title: ''
-      volume_number: 48
-      total_pages: 578
-    831174253738488582b3b19340d4abb3:
-      image_group_id: I6396
-      title: ''
-      volume_number: 49
-      total_pages: 586
-    56fc0e94d26949829a22591b0281ed9e:
-      image_group_id: I6397
-      title: ''
-      volume_number: 50
-      total_pages: 594
-    6659ea745edc4fc4b234272d3c64bc0c:
-      image_group_id: I6398
-      title: ''
-      volume_number: 51
-      total_pages: 592
-    1b5133d9d32e4ba98c789558a8cad0e8:
-      image_group_id: I6399
-      title: ''
-      volume_number: 52
-      total_pages: 688
-    7565893ff9654151804b9d402482ca45:
-      image_group_id: I6400
-      title: ''
-      volume_number: 53
-      total_pages: 682
-    57a0ba86252148169f2632bb2751475f:
-      image_group_id: I6401
-      title: ''
-      volume_number: 54
-      total_pages: 594
-    3ba87721a85547c9aeb8faa1ce8f20c1:
-      image_group_id: I6402
-      title: ''
-      volume_number: 55
-      total_pages: 634
-    6d39883ad79445269104fe186db83785:
-      image_group_id: I6403
-      title: ''
-      volume_number: 56
-      total_pages: 602
-    846db7197f5841d48576cb8a76262af7:
-      image_group_id: I6404
-      title: ''
-      volume_number: 57
-      total_pages: 690
-    9ca8d31a97334f21b0ba69b4d132f443:
-      image_group_id: I6405
-      title: ''
-      volume_number: 58
-      total_pages: 640
-    bc11b06321cb4cb19f7621822717dd37:
-      image_group_id: I6406
-      title: ''
-      volume_number: 59
-      total_pages: 630
-    f639dc429a214b81b91233841e149c22:
-      image_group_id: I6407
-      title: ''
-      volume_number: 60
-      total_pages: 594
-    78791091d99e4459ab2fcde2cf79ddfe:
-      image_group_id: I6408
-      title: ''
-      volume_number: 61
-      total_pages: 618
-    9402231d923b44859d9c70d70f8e0eef:
-      image_group_id: I6409
-      title: ''
-      volume_number: 62
-      total_pages: 616
-    52310933fc4f4f7a819d3a37da783dee:
-      image_group_id: I6410
-      title: ''
-      volume_number: 63
-      total_pages: 596
-    443c6fd4e57b4659a4ddcf81d33b575e:
-      image_group_id: I6411
-      title: ''
-      volume_number: 64
-      total_pages: 600
-    b3df505c5256437e8a796fda27aac25c:
-      image_group_id: I6412
-      title: ''
-      volume_number: 65
-      total_pages: 614
-    f98aba27b970480d848f9a084bf6e528:
-      image_group_id: I6413
-      title: ''
-      volume_number: 66
-      total_pages: 622
-    bdc7b689737a488c846b46219ca9f7b5:
-      image_group_id: I6414
-      title: ''
-      volume_number: 67
-      total_pages: 640
-    3861130fe0064a1f9a4671146c4979d4:
-      image_group_id: I6415
-      title: ''
-      volume_number: 68
-      total_pages: 638
-    f4f7be9f255941759a1eb088f5e4a456:
-      image_group_id: I6416
-      title: ''
-      volume_number: 69
-      total_pages: 616
-    bbd91405fc33414fbcce15612dc572be:
-      image_group_id: I6417
-      title: ''
-      volume_number: 70
-      total_pages: 626
-    7e651578b7c64ef38925e59592019550:
-      image_group_id: I6418
-      title: ''
-      volume_number: 71
-      total_pages: 612
-    9069e82d34664727b6243f02ab2b1db7:
-      image_group_id: I6419
-      title: ''
-      volume_number: 72
-      total_pages: 622
-    66f7806ad19445b6af478d0db9872da8:
-      image_group_id: I6420
-      title: ''
-      volume_number: 73
-      total_pages: 620
-    b094d43b63ec45379fcf72b2562b69f6:
-      image_group_id: I6421
-      title: ''
-      volume_number: 74
-      total_pages: 2
-    2165f888feae47b188d02fac75d8ee25:
-      image_group_id: I6422
-      title: ''
-      volume_number: 75
-      total_pages: 2
-    3175c4dea02b4a8cb778bdd93eee4e23:
-      image_group_id: I6423
-      title: ''
-      volume_number: 76
-      total_pages: 580
-    51c3c957fac342eba23d2bbd1709d31e:
-      image_group_id: I6424
-      title: ''
-      volume_number: 77
-      total_pages: 744
-    8b258881dca64b0e86e9f343277c7d8e:
-      image_group_id: I6425
-      title: ''
-      volume_number: 78
-      total_pages: 624
-    5872ef11b10c4c199f57bf01ba9c520e:
-      image_group_id: I6426
-      title: ''
-      volume_number: 79
-      total_pages: 586
-    d521d283f0a846c38aa7606c80f2802c:
-      image_group_id: I6427
-      title: ''
-      volume_number: 80
-      total_pages: 688
-    5d0bf0c2a3bc481ab457dbc23f7972b9:
-      image_group_id: I6428
-      title: ''
-      volume_number: 81
-      total_pages: 620
-    278a75a185124c8cbcfd5e341b95713b:
-      image_group_id: I6429
-      title: ''
-      volume_number: 82
-      total_pages: 664
-    0ee538c86a17419aac3d9afd75f8fb83:
-      image_group_id: I6430
-      title: ''
-      volume_number: 83
-      total_pages: 676
-    62f2a29c1d3f43f4b638669c1ae217ae:
-      image_group_id: I6431
-      title: ''
-      volume_number: 84
-      total_pages: 552
-    eca4a806105c4823928a08effe3c9438:
-      image_group_id: I6432
-      title: ''
-      volume_number: 85
-      total_pages: 548
-    a62fcac30ad94dddbf8a030078abd36b:
-      image_group_id: I6433
-      title: ''
-      volume_number: 86
-      total_pages: 648
-    ca36303099354bbb92955f61e3096ddf:
-      image_group_id: I6434
-      title: ''
-      volume_number: 87
-      total_pages: 620
-    7c88773773544f89adc48788cb4aba79:
-      image_group_id: I6435
-      title: ''
-      volume_number: 88
-      total_pages: 704
-    231fbf9ae9ef45a2afffc790379ba50f:
-      image_group_id: I6436
-      title: ''
-      volume_number: 89
-      total_pages: 548
-    2fe593b374624443bb8e89d83bab3168:
-      image_group_id: I6437
-      title: ''
-      volume_number: 90
-      total_pages: 576
-    f01c05b6061b4825aea7b46eb6043780:
-      image_group_id: I6438
-      title: ''
-      volume_number: 91
-      total_pages: 586
-    b22467c43dc84136a377a506297ccc46:
-      image_group_id: I6439
-      title: ''
-      volume_number: 92
-      total_pages: 636
-    3b49540b4634475c92909db3c4a96eda:
-      image_group_id: I6440
-      title: ''
-      volume_number: 93
-      total_pages: 626
-    eff3bf7466db4b9ca4ce21e6a18c5ca5:
-      image_group_id: I6441
-      title: ''
-      volume_number: 94
-      total_pages: 540
-    9646e63b39434bec9f8b8e39085766ed:
-      image_group_id: I6442
-      title: ''
-      volume_number: 95
-      total_pages: 592
-    291269a7bc8c4a2d9d8f3515ade3bf49:
-      image_group_id: I6443
-      title: ''
-      volume_number: 96
-      total_pages: 530
-    9e4e952064774f2298499f6581bff72a:
-      image_group_id: I6444
-      title: ''
-      volume_number: 97
-      total_pages: 716
-    7e254b524e044b929e4ea9cd38f59034:
-      image_group_id: I6445
-      title: ''
-      volume_number: 98
-      total_pages: 630
-    aed364c13c244b05b65369cc4a7c00d6:
-      image_group_id: I6446
-      title: ''
-      volume_number: 99
-      total_pages: 0
-    ad06a4a3194242d7b7abcf29ea977853:
-      image_group_id: I6447
-      title: ''
-      volume_number: 100
-      total_pages: 568
-    6526e505759f491f961967dd697964a1:
-      image_group_id: I6448
-      title: ''
-      volume_number: 101
-      total_pages: 558
-    e11ad138286045d0ae83f9b5dd5e69d9:
-      image_group_id: I6449
-      title: ''
-      volume_number: 102
-      total_pages: 944
-    9de8cfb881414887885d4da5bdee7cc6:
-      image_group_id: I6450
-      title: ''
-      volume_number: 103
-      total_pages: 344
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: true
+  base:
+    329B:
+      image_group_id: I6348
+      title: ''
+      total_pages: 624
+      order: 1
+      base_file: 329B.txt
+    12D4:
+      image_group_id: I6349
+      title: ''
+      total_pages: 636
+      order: 2
+      base_file: 12D4.txt
+    4B9F:
+      image_group_id: I6350
+      title: ''
+      total_pages: 588
+      order: 3
+      base_file: 4B9F.txt
+    01E9:
+      image_group_id: I6351
+      title: ''
+      total_pages: 606
+      order: 4
+      base_file: 01E9.txt
+    '1784':
+      image_group_id: I6352
+      title: ''
+      total_pages: 590
+      order: 5
+      base_file: 1784.txt
+    '4384':
+      image_group_id: I6353
+      title: ''
+      total_pages: 576
+      order: 6
+      base_file: 4384.txt
+    DD39:
+      image_group_id: I6354
+      title: ''
+      total_pages: 576
+      order: 7
+      base_file: DD39.txt
+    D60E:
+      image_group_id: I6355
+      title: ''
+      total_pages: 540
+      order: 8
+      base_file: D60E.txt
+    555E:
+      image_group_id: I6356
+      title: ''
+      total_pages: 658
+      order: 9
+      base_file: 555E.txt
+    FEF3:
+      image_group_id: I6357
+      title: ''
+      total_pages: 622
+      order: 10
+      base_file: FEF3.txt
+    FF10:
+      image_group_id: I6358
+      title: ''
+      total_pages: 668
+      order: 11
+      base_file: FF10.txt
+    4B61:
+      image_group_id: I6359
+      title: ''
+      total_pages: 606
+      order: 12
+      base_file: 4B61.txt
+    4F4F:
+      image_group_id: I6360
+      title: ''
+      total_pages: 628
+      order: 13
+      base_file: 4F4F.txt
+    FCC0:
+      image_group_id: I6361
+      title: ''
+      total_pages: 790
+      order: 14
+      base_file: FCC0.txt
+    88AD:
+      image_group_id: I6362
+      title: ''
+      total_pages: 806
+      order: 15
+      base_file: 88AD.txt
+    C279:
+      image_group_id: I6363
+      title: ''
+      total_pages: 790
+      order: 16
+      base_file: C279.txt
+    436A:
+      image_group_id: I6364
+      title: ''
+      total_pages: 764
+      order: 17
+      base_file: 436A.txt
+    EDF9:
+      image_group_id: I6365
+      title: ''
+      total_pages: 790
+      order: 18
+      base_file: EDF9.txt
+    D449:
+      image_group_id: I6366
+      title: ''
+      total_pages: 764
+      order: 19
+      base_file: D449.txt
+    6DA6:
+      image_group_id: I6367
+      title: ''
+      total_pages: 798
+      order: 20
+      base_file: 6DA6.txt
+    3ED3:
+      image_group_id: I6368
+      title: ''
+      total_pages: 800
+      order: 21
+      base_file: 3ED3.txt
+    A0B5:
+      image_group_id: I6369
+      title: ''
+      total_pages: 770
+      order: 22
+      base_file: A0B5.txt
+    3F85:
+      image_group_id: I6370
+      title: ''
+      total_pages: 776
+      order: 23
+      base_file: 3F85.txt
+    990B:
+      image_group_id: I6371
+      title: ''
+      total_pages: 824
+      order: 24
+      base_file: 990B.txt
+    B4C8:
+      image_group_id: I6372
+      title: ''
+      total_pages: 792
+      order: 25
+      base_file: B4C8.txt
+    6D55:
+      image_group_id: I6373
+      title: ''
+      total_pages: 766
+      order: 26
+      base_file: 6D55.txt
+    F424:
+      image_group_id: I6374
+      title: ''
+      total_pages: 788
+      order: 27
+      base_file: F424.txt
+    4B2C:
+      image_group_id: I6375
+      title: ''
+      total_pages: 764
+      order: 28
+      base_file: 4B2C.txt
+    D604:
+      image_group_id: I6376
+      title: ''
+      total_pages: 602
+      order: 29
+      base_file: D604.txt
+    BACB:
+      image_group_id: I6377
+      title: ''
+      total_pages: 610
+      order: 30
+      base_file: BACB.txt
+    0830:
+      image_group_id: I6378
+      title: ''
+      total_pages: 596
+      order: 31
+      base_file: 0830.txt
+    A621:
+      image_group_id: I6379
+      title: ''
+      total_pages: 614
+      order: 32
+      base_file: A621.txt
+    4AD7:
+      image_group_id: I6380
+      title: ''
+      total_pages: 572
+      order: 33
+      base_file: 4AD7.txt
+    9FC1:
+      image_group_id: I6381
+      title: ''
+      total_pages: 570
+      order: 34
+      base_file: 9FC1.txt
+    A454:
+      image_group_id: I6382
+      title: ''
+      total_pages: 788
+      order: 35
+      base_file: A454.txt
+    643A:
+      image_group_id: I6383
+      title: ''
+      total_pages: 796
+      order: 36
+      base_file: 643A.txt
+    B0BD:
+      image_group_id: I6384
+      title: ''
+      total_pages: 792
+      order: 37
+      base_file: B0BD.txt
+    9AD7:
+      image_group_id: I6385
+      title: ''
+      total_pages: 726
+      order: 38
+      base_file: 9AD7.txt
+    C456:
+      image_group_id: I6386
+      title: ''
+      total_pages: 542
+      order: 39
+      base_file: C456.txt
+    '2225':
+      image_group_id: I6387
+      title: ''
+      total_pages: 590
+      order: 40
+      base_file: 2225.txt
+    F29D:
+      image_group_id: I6388
+      title: ''
+      total_pages: 598
+      order: 41
+      base_file: F29D.txt
+    E470:
+      image_group_id: I6389
+      title: ''
+      total_pages: 576
+      order: 42
+      base_file: E470.txt
+    55AA:
+      image_group_id: I6390
+      title: ''
+      total_pages: 618
+      order: 43
+      base_file: 55AA.txt
+    C632:
+      image_group_id: I6391
+      title: ''
+      total_pages: 600
+      order: 44
+      base_file: C632.txt
+    BB03:
+      image_group_id: I6392
+      title: ''
+      total_pages: 682
+      order: 45
+      base_file: BB03.txt
+    '5546':
+      image_group_id: I6393
+      title: ''
+      total_pages: 558
+      order: 46
+      base_file: 5546.txt
+    8B55:
+      image_group_id: I6394
+      title: ''
+      total_pages: 612
+      order: 47
+      base_file: 8B55.txt
+    0A18:
+      image_group_id: I6395
+      title: ''
+      total_pages: 578
+      order: 48
+      base_file: 0A18.txt
+    E1EA:
+      image_group_id: I6396
+      title: ''
+      total_pages: 586
+      order: 49
+      base_file: E1EA.txt
+    A45D:
+      image_group_id: I6397
+      title: ''
+      total_pages: 594
+      order: 50
+      base_file: A45D.txt
+    B03B:
+      image_group_id: I6398
+      title: ''
+      total_pages: 592
+      order: 51
+      base_file: B03B.txt
+    DDBF:
+      image_group_id: I6399
+      title: ''
+      total_pages: 688
+      order: 52
+      base_file: DDBF.txt
+    8ED3:
+      image_group_id: I6400
+      title: ''
+      total_pages: 682
+      order: 53
+      base_file: 8ED3.txt
+    86BD:
+      image_group_id: I6401
+      title: ''
+      total_pages: 594
+      order: 54
+      base_file: 86BD.txt
+    '8624':
+      image_group_id: I6402
+      title: ''
+      total_pages: 634
+      order: 55
+      base_file: 8624.txt
+    6BB7:
+      image_group_id: I6403
+      title: ''
+      total_pages: 602
+      order: 56
+      base_file: 6BB7.txt
+    6A66:
+      image_group_id: I6404
+      title: ''
+      total_pages: 690
+      order: 57
+      base_file: 6A66.txt
+    5F06:
+      image_group_id: I6405
+      title: ''
+      total_pages: 640
+      order: 58
+      base_file: 5F06.txt
+    EDD3:
+      image_group_id: I6406
+      title: ''
+      total_pages: 630
+      order: 59
+      base_file: EDD3.txt
+    '5755':
+      image_group_id: I6407
+      title: ''
+      total_pages: 594
+      order: 60
+      base_file: 5755.txt
+    E601:
+      image_group_id: I6408
+      title: ''
+      total_pages: 618
+      order: 61
+      base_file: E601.txt
+    0BE6:
+      image_group_id: I6409
+      title: ''
+      total_pages: 616
+      order: 62
+      base_file: 0BE6.txt
+    B15D:
+      image_group_id: I6410
+      title: ''
+      total_pages: 596
+      order: 63
+      base_file: B15D.txt
+    FF92:
+      image_group_id: I6411
+      title: ''
+      total_pages: 600
+      order: 64
+      base_file: FF92.txt
+    6B46:
+      image_group_id: I6412
+      title: ''
+      total_pages: 614
+      order: 65
+      base_file: 6B46.txt
+    62BB:
+      image_group_id: I6413
+      title: ''
+      total_pages: 622
+      order: 66
+      base_file: 62BB.txt
+    '5375':
+      image_group_id: I6414
+      title: ''
+      total_pages: 640
+      order: 67
+      base_file: 5375.txt
+    '7034':
+      image_group_id: I6415
+      title: ''
+      total_pages: 638
+      order: 68
+      base_file: 7034.txt
+    0A1B:
+      image_group_id: I6416
+      title: ''
+      total_pages: 616
+      order: 69
+      base_file: 0A1B.txt
+    '0057':
+      image_group_id: I6417
+      title: ''
+      total_pages: 626
+      order: 70
+      base_file: 0057.txt
+    D47E:
+      image_group_id: I6418
+      title: ''
+      total_pages: 612
+      order: 71
+      base_file: D47E.txt
+    '5900':
+      image_group_id: I6419
+      title: ''
+      total_pages: 622
+      order: 72
+      base_file: 5900.txt
+    12B9:
+      image_group_id: I6420
+      title: ''
+      total_pages: 620
+      order: 73
+      base_file: 12B9.txt
+    '4931':
+      image_group_id: I6421
+      title: ''
+      total_pages: 2
+      order: 74
+      base_file: 4931.txt
+    CFCA:
+      image_group_id: I6422
+      title: ''
+      total_pages: 2
+      order: 75
+      base_file: CFCA.txt
+    '5914':
+      image_group_id: I6423
+      title: ''
+      total_pages: 580
+      order: 76
+      base_file: 5914.txt
+    BD0B:
+      image_group_id: I6424
+      title: ''
+      total_pages: 744
+      order: 77
+      base_file: BD0B.txt
+    59F6:
+      image_group_id: I6425
+      title: ''
+      total_pages: 624
+      order: 78
+      base_file: 59F6.txt
+    FDD9:
+      image_group_id: I6426
+      title: ''
+      total_pages: 586
+      order: 79
+      base_file: FDD9.txt
+    628C:
+      image_group_id: I6427
+      title: ''
+      total_pages: 688
+      order: 80
+      base_file: 628C.txt
+    0A19:
+      image_group_id: I6428
+      title: ''
+      total_pages: 620
+      order: 81
+      base_file: 0A19.txt
+    6C3A:
+      image_group_id: I6429
+      title: ''
+      total_pages: 664
+      order: 82
+      base_file: 6C3A.txt
+    E0EA:
+      image_group_id: I6430
+      title: ''
+      total_pages: 676
+      order: 83
+      base_file: E0EA.txt
+    3CE0:
+      image_group_id: I6431
+      title: ''
+      total_pages: 552
+      order: 84
+      base_file: 3CE0.txt
+    '1417':
+      image_group_id: I6432
+      title: ''
+      total_pages: 548
+      order: 85
+      base_file: 1417.txt
+    7B99:
+      image_group_id: I6433
+      title: ''
+      total_pages: 648
+      order: 86
+      base_file: 7B99.txt
+    C32D:
+      image_group_id: I6434
+      title: ''
+      total_pages: 620
+      order: 87
+      base_file: C32D.txt
+    7E77:
+      image_group_id: I6435
+      title: ''
+      total_pages: 704
+      order: 88
+      base_file: 7E77.txt
+    D981:
+      image_group_id: I6436
+      title: ''
+      total_pages: 548
+      order: 89
+      base_file: D981.txt
+    795E:
+      image_group_id: I6437
+      title: ''
+      total_pages: 576
+      order: 90
+      base_file: 795E.txt
+    4E42:
+      image_group_id: I6438
+      title: ''
+      total_pages: 586
+      order: 91
+      base_file: 4E42.txt
+    F74A:
+      image_group_id: I6439
+      title: ''
+      total_pages: 636
+      order: 92
+      base_file: F74A.txt
+    '5650':
+      image_group_id: I6440
+      title: ''
+      total_pages: 626
+      order: 93
+      base_file: 5650.txt
+    3DB1:
+      image_group_id: I6441
+      title: ''
+      total_pages: 540
+      order: 94
+      base_file: 3DB1.txt
+    790B:
+      image_group_id: I6442
+      title: ''
+      total_pages: 592
+      order: 95
+      base_file: 790B.txt
+    D20E:
+      image_group_id: I6443
+      title: ''
+      total_pages: 530
+      order: 96
+      base_file: D20E.txt
+    0469:
+      image_group_id: I6444
+      title: ''
+      total_pages: 716
+      order: 97
+      base_file: 0469.txt
+    DDF7:
+      image_group_id: I6445
+      title: ''
+      total_pages: 630
+      order: 98
+      base_file: DDF7.txt
+    91B8:
+      image_group_id: I6446
+      title: ''
+      total_pages: 0
+      order: 99
+      base_file: 91B8.txt
+    '8446':
+      image_group_id: I6447
+      title: ''
+      total_pages: 568
+      order: 100
+      base_file: 8446.txt
+    DD98:
+      image_group_id: I6448
+      title: ''
+      total_pages: 558
+      order: 101
+      base_file: DD98.txt
+    DB55:
+      image_group_id: I6449
+      title: ''
+      total_pages: 944
+      order: 102
+      base_file: DB55.txt
+    '1746':
+      image_group_id: I6450
+      title: ''
+      total_pages: 344
+      order: 103
+      base_file: 1746.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
